@@ -1,9 +1,9 @@
 {
   "name": "@venkat-clone/orm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
-    "publishConfig": {
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
